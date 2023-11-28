@@ -27,8 +27,7 @@ import java.nio.file.FileAlreadyExistsException;
  * @author USER
  */
 public class TelaBiblioteca extends javax.swing.JFrame {
-
-    static String DIR_PAI_IMAGEM = "teste";
+    
     private User usuarioLogado = UserController.usuarioLogado;
 
     /**

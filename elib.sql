@@ -202,4 +202,4 @@ INSERT INTO
     public.favorito(id_usuario,id_genero)
 VALUES (1,1), (1,2), (2,1), (2,2);
 
-ALTER SEQUENCE livro_pkey RESTART WITH 11;
+ALTER SEQUENCE livro_id_seq RESTART WITH 11;
